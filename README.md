@@ -1,0 +1,1 @@
+A simple weather app that takes in a user's location and displays the temperature, what the temperature feels like, the weather condition, and location city and country.
